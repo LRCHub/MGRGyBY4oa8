@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "リトルブレイバー (BUMP OF CHICKEN LIVE 2022 Silver Jubilee at Makuhari Messe)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T17:46:54.097443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "ベアトリス (CV. 影山 灯)",
+      "has_synced": false,
+      "path": "select/01_リトルブレイバー_ベアトリス_(CV._影山_灯).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_リトルブレイバー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_リトルブレイバー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "ベアトリス(CV.影山灯)",
+      "has_synced": false,
+      "path": "select/04_リトルブレイバー_ベアトリス(CV.影山灯).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "Bump Of Chicken",
+      "has_synced": true,
+      "path": "select/05_リトルブレイバー_Bump_Of_Chicken.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "ベアトリス",
+      "has_synced": false,
+      "path": "select/06_リトルブレイバー_ベアトリス.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リトルブレイバー",
+      "artist": "Beatrice (CV․ Akari Kageyama)",
+      "has_synced": true,
+      "path": "select/07_リトルブレイバー_Beatrice_(CV._Akari_Kageyama).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リトルブレイバー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_リトルブレイバー_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
